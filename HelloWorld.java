@@ -9,5 +9,7 @@ public class HelloWorld {
 
         System.out.println("My first Jenkins experiment!");
 
+        System.out.println("Automatic Jenkins Build Tested!");
+
     }
 }
